@@ -1,2 +1,0 @@
-tkinter
-pyinstaller==6.11.1 
